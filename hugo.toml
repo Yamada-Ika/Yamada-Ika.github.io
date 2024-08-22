@@ -1,0 +1,4 @@
+theme = 'hugo-notepadium'
+baseURL = 'https://Yamada-Ika.github.io/'
+languageCode = 'ja'
+title = 'イカなる時も'
